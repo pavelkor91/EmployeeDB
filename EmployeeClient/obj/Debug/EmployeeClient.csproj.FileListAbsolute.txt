@@ -1,0 +1,159 @@
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\EmployeeClient.exe.config
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\EmployeeClient.exe
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\EmployeeClient.pdb
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.Edm.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.OData.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.Services.Client.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\System.Spatial.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.Edm.xml
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.OData.xml
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.Services.Client.xml
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\System.Spatial.xml
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\de\Microsoft.Data.OData.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\es\Microsoft.Data.OData.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\it\Microsoft.Data.OData.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\de\System.Spatial.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\es\System.Spatial.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\fr\System.Spatial.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\it\System.Spatial.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\ja\System.Spatial.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\ko\System.Spatial.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\ru\System.Spatial.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hans\System.Spatial.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hant\System.Spatial.resources.dll
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.Form1.resources
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.Properties.Resources.resources
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.csproj.GenerateResource.Cache
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.exe
+c:\users\администратор\documents\visual studio 2013\Projects\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\EmployeeClient.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\EmployeeClient.exe
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\EmployeeClient.pdb
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\System.Spatial.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\System.Spatial.xml
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.Form1.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.Properties.Resources.resources
+C:\Users\Администратор\Documents\Visual Studio 2013\Projects\EmployeesWeb\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.csproj.GenerateResource.Cache
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\EmployeeClient.exe.config
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.exe
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.pdb
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\EmployeeClient.exe
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\EmployeeClient.pdb
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\System.Spatial.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\System.Spatial.xml
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.csprojResolveAssemblyReference.cache
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.Form1.resources
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.Properties.Resources.resources
+C:\Users\pavelpc\Downloads\EmployeesWeb\EmployeesWeb\EmployeesWeb\EmployeeClient\obj\Debug\EmployeeClient.csproj.GenerateResource.Cache
